@@ -18,7 +18,8 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title: "MUSA 550: Geospatial Data Science in Python"
 title_separator: "-"
-name: "Benjamin She, Hanpu Yao"
+name: "Benjamin She, 
+Hanpu Yao"
 description: "Displaying cool data visualizations"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
