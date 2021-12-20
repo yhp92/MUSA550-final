@@ -1,5 +1,5 @@
 ---
-title: "Example: Embedding Altair & Hvplot Charts"
+title: "Clustering: how is jobs distributed in PA"
 date: 2019-04-13
 published: true
 tags: [dataviz, altair, hvplot, holoviews]
@@ -9,7 +9,7 @@ altair-loader:
 hv-loader:
   hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
   hv-chart-2: ["charts/phl_bg_map.html", "500"]
-  2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html", "1000"]
+  2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html"]
 toc: true
 toc_sticky: true
 ---
