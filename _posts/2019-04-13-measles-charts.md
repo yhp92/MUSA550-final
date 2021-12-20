@@ -9,7 +9,7 @@ altair-loader:
 hv-loader:
   hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
   hv-chart-2: ["charts/phl_bg_map.html", "500"]
-  2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html"]
+  2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html","1000"]
 toc: true
 toc_sticky: true
 ---
