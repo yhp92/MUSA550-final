@@ -2,7 +2,7 @@
 title: "Clustering: how is jobs distributed in PA"
 date: 2019-04-13
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
+tags: [clustering, k-means, DBScan, hvplot, WAC]
 excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
