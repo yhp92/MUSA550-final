@@ -1,15 +1,16 @@
 ---
-title: "Clustering: how is jobs distributed in PA"
+title: "Clustering: how are jobs distributed in PA in 2019?"
 date: 2019-04-13
 published: true
 tags: [clustering, k-means, DBScan, hvplot, WAC]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
+excerpt: "Clustering visualization of jobs distribution in Philly"
 altair-loader:
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
   hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
   hv-chart-2: ["charts/phl_bg_map.html", "500"]
   2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html","1000"]
+  2_wac_2019_kmeans_all: ["charts/2_wac_2019_kmeans_all.html","1000"]
 toc: true
 toc_sticky: true
 ---
@@ -42,6 +43,9 @@ u1s1
 Heyhey check this out!
 
 <div id="2_wac_2019_kmeans_type"></div>
+
+These are other types:
+<div id="2_wac_2019_kmeans_all"></div>
 
 ## Notes
 
