@@ -31,16 +31,19 @@ We use elbow method and determine 4 clusters in the dataset.
 Below are the overall interactive charts. You can select the factor you are interested in to see how different group differentiate. Note that barplot of the type of job is seperated from the main chart because of space limitation.
 
 Overall factors of 4 clusters:
-<div id="2_wac_2019_kmeans_type"></div>
-
-Job types of 4 clusters:
 <div id="2_wac_2019_kmeans_all"></div>
 
+Job types of 4 clusters:
+<div id="2_wac_2019_kmeans_type"></div>
+
+
+
+### Why k-means?
+We also tried DBSCAN to do clustering, but compared to K-means, the result of DBSCAN is more complicated. It often defines excessive clusters and doesn't show difference among them. For example, below is a barplot of jobs type in different clusters, which provides little information. 
+
+![2_db]({{ site.url }}{{ site.baseurl }}/assets/images/2_DBScan_2019.png)
 
 
 ## Notes
 
-- See the [raw source code](https://raw.githubusercontent.com/MUSA-550-Fall-2020/github-pages-starter/master/_posts/2019-04-13-measles-charts.md) of this post for details on how these charts were embedded.
-- See the [lecture 13A slides](https://github.com/MUSA-550-Fall-2020/week-13/blob/master/lecture-13A.ipynb) for the code that produced these plots.
-
-**Important: When embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they fit nicely when embedded.**
+In 
