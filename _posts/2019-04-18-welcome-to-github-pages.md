@@ -1,6 +1,6 @@
 ---
-title: "Welcome to GitHub Pages!"
-date: 2019-04-18T15:34:30-04:00
+title: "Aerial image of Chesterbrook business park CBD, Philadelphia"
+date: 2021-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
@@ -8,7 +8,6 @@ tags:
   - update
 ---
 
-# An analysis of homes and jobs in the Philadelphia metro region
 
 
 ![Aerial image of Chesterbrook business park CBD, Philadelphia]({{ site.url }}{{ site.baseurl }}/assets/images/chesterbrook.jpeg)
