@@ -21,6 +21,9 @@ We use clustering analysis to find out the patterns of jobs distribution in diff
 
 The dataset we used is WAC(Workplace Area Characteristic data, jobs are totaled by work Census Block), a subset of LEHD dataset. In the dataset, every row is the numbers of employees in a block group in a year, and the employees are classified in different dimension.
 
+![2_ WAC-data-description-1.png]({{ site.url }}{{ site.baseurl }}/assets/images/2_ WAC-data-description-1.png.png)
+![2_ WAC-data-description-.png]({{ site.url }}{{ site.baseurl }}/assets/images/2_ WAC-data-description-2.png.png)
+
 
 ## Altair Example
 
