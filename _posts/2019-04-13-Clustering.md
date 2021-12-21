@@ -7,7 +7,7 @@ excerpt: "Clustering visualization of jobs distribution in Philly"
 
 hv-loader:
   2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html","1000"]
-  2_wac_2019_kmeans_all: ["charts/2_wac_2019_kmeans_all.html","1000"]
+  2_wac_2019_kmeans_all: ["charts/2_wac_2019_kmeans_all.html","800"]
 toc: true
 toc_sticky: true
 ---
