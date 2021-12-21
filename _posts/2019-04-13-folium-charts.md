@@ -4,7 +4,8 @@ date: 2019-04-13
 published: true
 tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
-hvplot-loader:
+
+hv-loader:
   chart-1: ["charts/1_hexbin.html", "400"] # second argument is the height
   chart-2: ["charts/1_jobs_income.html", "400"] # second argument is the height
   chart-3: ["charts/1_jobs_industry.html", "400"] # second argument is the height
