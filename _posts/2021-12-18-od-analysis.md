@@ -11,7 +11,7 @@ hv-loader:
   3-orig-dest: ["charts/3_orig_dest.html","800"]
   3-single-traj: ["charts/3_single_traj.html","800"]
   3-od-hist: ["charts/3_od_hist.html","800']
-  3_emp_eff_pct:["charts/3_emp_eff_pct.html","800"]
+  3_emp_eff_pct: ["charts/3_emp_eff_pct.html","800"]
 
 toc: true
 toc_sticky: true
