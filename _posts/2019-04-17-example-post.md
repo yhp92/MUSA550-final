@@ -6,9 +6,9 @@ tags: [dataviz, matplotlib]
 excerpt: "This is an example blog post that embeds a matplotlib image."
 
 hv-loader:
-  3_emp_eff: ["charts/charts/3_emp_eff.html","800"]
+  3_emp_eff: ["charts/3_emp_eff.html","800"]
   3_datashade: ["charts/3_datashade.html","800"]
-  3_orig_dest: ["charts/charts/3_orig_dest.html","800"]
+  3_orig_dest: ["charts/3_orig_dest.html","800"]
   3_single_traj: ["charts/3_single_traj.html","800"]
 toc: true
 toc_sticky: true
