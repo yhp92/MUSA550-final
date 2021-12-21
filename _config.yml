@@ -16,17 +16,17 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 550: Geospatial Data Science in Python"
+title: "An analysis of homes and jobs in the Philadelphia metro region"
 title_separator: "-"
 name: "Benjamin She, Hanpu Yao"
 description: "Displaying cool data visualizations"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url: "https://yhp92.github.io"
+baseurl: "/MUSA550-final"
+repository: "yhp92/MUSA550-final"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
