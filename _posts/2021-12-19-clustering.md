@@ -1,6 +1,6 @@
 ---
 title: "Clustering: how are jobs distributed in PA in 2019?"
-date: 2021-12-20
+date: 2021-12-19
 published: true
 tags: [clustering, k-means, DBScan, hvplot, WAC]
 excerpt: "Clustering visualization of jobs distribution in Philly"
