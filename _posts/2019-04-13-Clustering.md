@@ -1,6 +1,6 @@
 ---
 title: "Clustering: how are jobs distributed in PA in 2019?"
-date: 2019-04-13
+date: 2021-12-20
 published: true
 tags: [clustering, k-means, DBScan, hvplot, WAC]
 excerpt: "Clustering visualization of jobs distribution in Philly"
@@ -15,7 +15,12 @@ toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+## Introduction
+
+We use clustering analysis to find out the patterns of jobs distribution in different block groups. 
+
+The dataset we used is WAC(Workplace Area Characteristic data, jobs are totaled by work Census Block), a subset of LEHD dataset. In the dataset, every row is the numbers of employees in a block group in a year, and the employees are classified in different dimension.
+
 
 ## Altair Example
 
