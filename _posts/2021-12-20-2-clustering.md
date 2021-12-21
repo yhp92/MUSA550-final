@@ -14,7 +14,7 @@ toc: true
 toc_sticky: true
 ---
 
-## Introduction
+## Only Jobs data
 
 We use clustering analysis to find out the patterns of jobs distribution in different block groups. 
 
@@ -24,7 +24,7 @@ The dataset we used is WAC(Workplace Area Characteristic data, jobs are totaled 
 ![2_ WAC-data-description-2]({{ site.url }}{{ site.baseurl }}/assets/images/2_ WAC-data-description-2.png)
 
 
-## HvPlot Example
+## 4 Clusters
 
 We use elbow method and determine 4 clusters in the dataset. 
 ![2_ elbow]({{ site.url }}{{ site.baseurl }}/assets/images/2_elbow_2019.png)
