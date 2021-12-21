@@ -35,7 +35,7 @@ Overall factors of 4 clusters:
 Job types of 4 clusters:
 <div id="2_wac_2019_kmeans_type"></div>
 
-![2_Edu&Earning]({{ site.url }}{{ site.baseurl }}/assets/images/2_edu&arning.png)
+![2_Edu&Earning]({{ site.url }}{{ site.baseurl }}/assets/images/2_edu&earning.png)
 
 ![2_Ethinity&Race]({{ site.url }}{{ site.baseurl }}/assets/images/2_Ethinity&Race.png)
 
