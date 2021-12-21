@@ -8,6 +8,8 @@ excerpt: "Clustering visualization of jobs distribution in Philly"
 hv-loader:
   2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html","1000"]
   2_wac_2019_kmeans_all: ["charts/2_wac_2019_kmeans_all.html","800"]
+  2_cluster_map: ["charts/2_cluster_map.html","800"]
+
 toc: true
 toc_sticky: true
 ---
@@ -34,6 +36,8 @@ Overall factors of 4 clusters:
 
 Job types of 4 clusters:
 <div id="2_wac_2019_kmeans_type"></div>
+
+<div id="2_cluster_map"></div>
 
 ![2_Edu&Earning]({{ site.url }}{{ site.baseurl }}/assets/images/2_edu&earning.png)
 
