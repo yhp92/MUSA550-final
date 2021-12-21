@@ -6,8 +6,6 @@ tags: [clustering, k-means, DBScan, hvplot, WAC]
 excerpt: "Clustering visualization of jobs distribution in Philly"
 
 hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
-  hv-chart-2: ["charts/phl_bg_map.html", "500"]
   2_wac_2019_kmeans_type: ["charts/2_wac_2019_kmeans_type.html","1000"]
   2_wac_2019_kmeans_all: ["charts/2_wac_2019_kmeans_all.html","1000"]
 toc: true
@@ -32,10 +30,13 @@ We use elbow method and determine 4 clusters in the dataset.
 
 Below are the overall interactive charts. You can select the factor you are interested in to see how different group differentiate. Note that barplot of the type of job is seperated from the main chart because of space limitation.
 
+Overall factors of 4 clusters:
 <div id="2_wac_2019_kmeans_type"></div>
 
-These are other types:
+Job types of 4 clusters:
 <div id="2_wac_2019_kmeans_all"></div>
+
+
 
 ## Notes
 
