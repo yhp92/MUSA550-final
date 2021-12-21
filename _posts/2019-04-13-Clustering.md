@@ -44,6 +44,4 @@ We also tried DBSCAN to do clustering, but compared to K-means, the result of DB
 
 ![2_db]({{ site.url }}{{ site.baseurl }}/assets/images/2_DBScan_2019.png)
 
-## Notes
 
-In 
