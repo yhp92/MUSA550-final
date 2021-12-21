@@ -4,8 +4,7 @@ date: 2021-12-20
 published: true
 tags: [clustering, k-means, DBScan, hvplot, WAC]
 excerpt: "Clustering visualization of jobs distribution in Philly"
-altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
+
 hv-loader:
   hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the height
   hv-chart-2: ["charts/phl_bg_map.html", "500"]
@@ -25,30 +24,13 @@ The dataset we used is WAC(Workplace Area Characteristic data, jobs are totaled 
 ![2_ WAC-data-description-2]({{ site.url }}{{ site.baseurl }}/assets/images/2_ WAC-data-description-2.png)
 
 
-## Altair Example
-
-Below is a chart of the incidence of measles since 1928 for the 50 US states.
-
-<div id="altair-chart-1"></div>
-
-This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
-
-```python
-import altair as alt
-alt.renderers.enable('notebook')
-```
 
 ## HvPlot Example
 
-Lastly, the measles incidence produced using the HvPlot package:
+We use elbow method and determine 4 clusters in the dataset. 
+![2_ elbow]({{ site.url }}{{ site.baseurl }}/assets/images/2_elbow_2019.png)
 
-<div id="hv-chart-1"></div>
-
-u1s1
-
-<div id="hv-chart-2"></div>
-
-Heyhey check this out!
+Below are the overall interactive charts. You can select the factor you are interested in to see how different group differentiate. Note that barplot of the type of job is seperated from the main chart because of space limitation.
 
 <div id="2_wac_2019_kmeans_type"></div>
 
