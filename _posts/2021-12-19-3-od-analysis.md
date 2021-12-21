@@ -14,7 +14,6 @@ hv-loader:
 
 toc: true
 toc_sticky: true
-read_time: false
 ---
 
 ## Part 3: Origin-Destination Analysis
