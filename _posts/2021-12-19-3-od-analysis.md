@@ -1,6 +1,6 @@
 ---
 title: "Part 3: Origin-Destination Analysis"
-date: 2021-12-22
+date: 2021-12-19
 published: true
 tags: [dataviz, hvplot, MovingPandas]
 excerpt: "Visualization using LODES Origin-destination data"
