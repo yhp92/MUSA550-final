@@ -35,9 +35,9 @@ Overall factors of 4 clusters:
 Job types of 4 clusters:
 <div id="2_wac_2019_kmeans_type"></div>
 
-![2_ WAC-data-description-1]({{ site.url }}{{ site.baseurl }}/assets/images/2_Edu&Earning.png)
+![2_Edu&Earning]({{ site.url }}{{ site.baseurl }}/assets/images/2_Edu&Earning.png)
 
-![2_ WAC-data-description-1]({{ site.url }}{{ site.baseurl }}/assets/images/2_Ethinity&Race.png)
+![2_Ethinity&Race]({{ site.url }}{{ site.baseurl }}/assets/images/2_Ethinity&Race.png)
 
 ### Why k-means?
 We also tried DBSCAN to do clustering, but compared to K-means, the result of DBSCAN is more complicated. It often defines excessive clusters and doesn't show difference among them. For example, below is a barplot of jobs type in different clusters, which provides little information. 
