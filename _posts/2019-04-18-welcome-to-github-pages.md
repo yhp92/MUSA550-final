@@ -1,6 +1,7 @@
 ---
 title: "Aerial image of Chesterbrook business park CBD, Philadelphia"
 date: 2021-04-18T15:34:30-04:00
+excerpt: "Introduction"
 categories:
   - blog
 tags:
