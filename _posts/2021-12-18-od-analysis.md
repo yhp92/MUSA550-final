@@ -336,7 +336,7 @@ hv.save(hv.HLine(0).opts(hv.opts.HLine(line_dash='dotted')) * od_eff.hvplot.line
 
 ```
 
-<div id="3-emp-eff"></div>
+<div id="3-emp_eff"></div>
 
 ```python
 hv.save(od_all_samp.groupby(['year','emp_eff'])['S000'].sum().hvplot.bar(stacked=True, legend='top_left'),
