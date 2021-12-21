@@ -5,8 +5,10 @@ published: true
 tags: [dataviz, folium]
 excerpt: "Embedding interactive Folium charts on static pages using Jekyll."
 folium-loadder:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the height
-  folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the height
+  chart-1: ["charts/1_hexbin.html", "400"] # second argument is the height
+  chart-2: ["charts/1_jobs_income.html", "400"] # second argument is the height
+  chart-3: ["charts/1_jobs_industry.html", "400"] # second argument is the height
+  chart-4: ["charts/1_pct_distance.html", "400"] # second argument is the height
 toc: true
 toc_sticky: true
 ---
@@ -17,10 +19,14 @@ This post will show examples of embedding interactive maps produced using [Foliu
 
 The shortest route between the Art Museum and the Liberty Bell:
 
-<div id="folium-chart-1"></div>
+<div id="chart-1"></div>
 
 ## Percentage of Households without Internet
 
-<div id="folium-chart-2"></div>
+<div id="chart-2"></div>
+
+<div id="chart-3"></div>
+<div id="chart-4"></div>
+
 
 See the [lecture 9B slides](https://musa-550-fall-2020.github.io/slides/lecture-9B.html) and the [lecture 10A slides](https://musa-550-fall-2020.github.io/slides/lecture-10A.html) for the code that produced these plots.
