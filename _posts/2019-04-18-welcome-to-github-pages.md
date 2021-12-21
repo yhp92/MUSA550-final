@@ -11,7 +11,8 @@ tags:
 # An analysis of homes and jobs in the Philadelphia metro region
 
 
-![assets/images/chesterbrook.jpg](Aerial image of Chesterbrook business park CBD, Philadelphia)
+![Aerial image of Chesterbrook business park CBD, Philadelphia]({{ site.url }}{{ site.baseurl }}/assets/images/chesterbrook.jpeg)
+
 
 
 Over the past few years, an increasing number of researchers are exploring the spatial structure of employment centers in American cities. Even as cities generally have experienced an urban revitalization movement to some degree or another, only a select few cities proper have been able to truly capture new offices, labs, and warehouses in the building boom. The rest must contend with an employment base that is staunchly intertial and content to stay largely in the same vicinity — and for most of the country over the past half-century, that means sticking to some degree of suburban decentralzation.
